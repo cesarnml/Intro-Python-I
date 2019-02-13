@@ -73,5 +73,5 @@ d = {
     "hp": 3,
 }
 
-# # What thing do you have to add to make this work?
+# What thing do you have to add to make this work?
 f4(**d)
